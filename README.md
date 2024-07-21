@@ -2,23 +2,6 @@
 
 This project sets up a monitoring solution for a Kubernetes cluster using Prometheus and Grafana. It visualizes metrics such as CPU usage, memory consumption, and pod status.
 
-## Project Structure
-
-k8s-monitoring
-├── manifests
-│ ├── grafana
-│ │ ├── deployment.yaml
-│ │ ├── service.yaml
-│ │ ├── configmap.yaml
-│ ├── prometheus
-│ │ ├── deployment.yaml
-│ │ ├── service.yaml
-│ │ ├── configmap.yaml
-│ ├── node-exporter
-│ │ ├── daemonset.yaml
-│ │ ├── service.yaml
-├── README.md
-
 ## Components
 
 ### Prometheus
