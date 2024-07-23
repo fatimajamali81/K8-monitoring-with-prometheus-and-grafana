@@ -77,3 +77,6 @@ Grafana is an open-source platform for monitoring and observability. It allows u
 ## Conclusion
 
 This setup provides a simple yet effective monitoring solution for Kubernetes clusters using Prometheus and Grafana. You can expand and customize this solution based on your monitoring needs.
+
+## License
+This project is licensed under the MIT License.
